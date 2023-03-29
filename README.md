@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1qCctisdS2o2qUNwr6BBgffj5nkAJo22C/view
   
 ## Usage
   
-   To use this, run the commond 'npm run start' in the project directory and you will be connected to port 3003.
+   To use this, run the command 'npm run start' in the project directory and you will be connected to port 3003.
   
 ## Running Tests
   
